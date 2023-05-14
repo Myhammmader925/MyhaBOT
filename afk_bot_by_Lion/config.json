@@ -1,0 +1,14 @@
+{
+    "ip": "Myhaivaha.aternos.me",
+    "port": 34332,
+    "name": "Myhabot",
+    "auto-night-skip": "true",
+    "join-msg": "hello",
+    "join-msg-on": "false",
+    "custom-message-enabled": "false",
+    "custom-message-1": "subscribe to LION BOY",
+    "custom-message-2": "subscribe to LION BOY",
+    "login-enabled": "true",
+    "register-cmd": "/register MyhaBot Myhabot",
+    "login-cmd": "/login Myhaot"
+}
